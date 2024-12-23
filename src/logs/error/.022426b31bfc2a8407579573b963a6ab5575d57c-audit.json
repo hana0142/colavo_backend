@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\hana0\\workplace\\backend_assign\\src\\logs\\error\\.022426b31bfc2a8407579573b963a6ab5575d57c-audit.json",
+    "files": [
+        {
+            "date": 1734918283324,
+            "name": "C:\\Users\\hana0\\workplace\\backend_assign\\src\\logs\\error\\2024-12-23.log",
+            "hash": "a8cfff592d2b4cbdb2e33a3b1a7b8124c95fe9aff60bab4a397c59e97a37f4cc"
+        }
+    ],
+    "hashType": "sha256"
+}
