@@ -15,7 +15,7 @@ export const WorkhourService = {
   * @returns {Workhour} workhourResul\
   * @description find all workhour data
   */
-  findAllWorkhour: async () => {
+  findAllWorkhour: async (): Promise<Workhour[]> => {
     let workhours = WorkhourModel;
     const workhourResult: Workhour[] = workhours;
     return workhourResult;

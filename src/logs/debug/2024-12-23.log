@@ -1,5 +1,0 @@
-2024-12-23 10:45:38 info: =================================
-2024-12-23 10:45:38 info: ======= ENV: undefined =======
-2024-12-23 10:45:38 info: 🚀 App listening on the port 3000
-2024-12-23 10:45:38 info: =================================
-2024-12-23 10:45:45 error: [POST] /gettimeslots >> StatusCode:: 400, Message:: days must be an integer number, service_duration must be an integer number, timeslot_interval must be an integer number, is_ignore_schedule must be a boolean value, is_ignore_workhour must be a boolean value
